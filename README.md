@@ -25,6 +25,8 @@ data about the cars (Year, Engine Type, Vehicle Type etc.)
 All text, cards and other elements are aligned for ease of reading. I used a grid to organize the main components on the
 page with the header of 'The Garage' as an exception. The CarCards are put into one column and the sidebar in the other.
 The CarCards themselves are organized using a simple grid and have text aligned left to adhere to reading conventions.
+The sidebar is organized vertically while the cards are ordered horizontally, this way it differentiates between the actions
+of browsing or selecting toggles for filter/sort.
 
 ### How Data is Passed Down Through Components
 
