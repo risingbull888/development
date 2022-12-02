@@ -8,7 +8,8 @@ My application 'The Garage' is website for wealthy car collectors to choose thei
 and filter by name, horsepower, and their colors. These functionality make it easier for them to choose what cars to 
 showcase during a swanky exotic car exhibition they attend every season. The user can filter through different colors and
 add the cars they want for the showcase and see the overall horsepower of their choices combined in order to adhere to the
-cumulative horsepower maximum set for each exhibition.
+cumulative horsepower maximum set for each exhibition. In the future more options and information can be added onto the cards.
+
 ### Usability Principles Considered
 
 I made sure that minimum widths and heights were set for each card to make sure that they could still be viewed clearly
