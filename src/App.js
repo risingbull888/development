@@ -121,7 +121,7 @@ function App() {
                     color1={item.color1}
                     color2={item.color2}
                     total={item.total}
-                    src={`${item.name.toLowerCase()}.png`}
+                    src={require('./assets/'+item.name.toLowerCase()+'.png')}
                     onClick={addToShowcases}
                     isShowcase={isShowcase}
                   />

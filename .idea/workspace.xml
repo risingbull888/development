@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3cd24280-ec86-4ebc-9f90-68062774705f" name="Default Changelist" comment="" />
+    <list default="true" id="3cd24280-ec86-4ebc-9f90-68062774705f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/assets/aston martin zagato.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/bmw i8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/bugatti chiron.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/bugatti veyron.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ford gt mkii.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jaguar f-type.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/lamborghini aventador.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/lotus 3-eleven.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,8 +29,34 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="ProjectId" id="2INcfhsYZuov3jGo36vcAtRI2lE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3cd24280-ec86-4ebc-9f90-68062774705f" name="Default Changelist" comment="" />
+      <created>1670025591254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670025591254</updated>
+      <workItem from="1670025595186" duration="529000" />
+      <workItem from="1670029817880" duration="568000" />
+    </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="oldMeFiltersMigrated" value="true" />
