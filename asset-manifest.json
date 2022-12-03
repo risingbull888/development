@@ -1,13 +1,21 @@
 {
   "files": {
     "main.css": "/development/static/css/main.e6c13ad2.css",
-    "main.js": "/development/static/js/main.ed2cf7f7.js",
+    "main.js": "/development/static/js/main.c9bd3c6a.js",
+    "static/media/lotus 3-eleven.png": "/development/static/media/lotus 3-eleven.b5b37201fef4734420bb.png",
+    "static/media/bugatti chiron.png": "/development/static/media/bugatti chiron.fda4d84f87d406c5277e.png",
+    "static/media/bugatti veyron.png": "/development/static/media/bugatti veyron.12ad42d7d8e7fa7c88d7.png",
+    "static/media/bmw i8.png": "/development/static/media/bmw i8.4e7481816514690d8894.png",
+    "static/media/jaguar f-type.png": "/development/static/media/jaguar f-type.078962bd4dc5c3bc7f89.png",
+    "static/media/ford gt mkii.png": "/development/static/media/ford gt mkii.03ae80adc1b5ddce567a.png",
+    "static/media/aston martin zagato.png": "/development/static/media/aston martin zagato.b3db38d1377f0dc82c87.png",
+    "static/media/lamborghini aventador.png": "/development/static/media/lamborghini aventador.4b2913acdfd7fb08c938.png",
     "index.html": "/development/index.html",
     "main.e6c13ad2.css.map": "/development/static/css/main.e6c13ad2.css.map",
-    "main.ed2cf7f7.js.map": "/development/static/js/main.ed2cf7f7.js.map"
+    "main.c9bd3c6a.js.map": "/development/static/js/main.c9bd3c6a.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.ed2cf7f7.js"
+    "static/js/main.c9bd3c6a.js"
   ]
 }
